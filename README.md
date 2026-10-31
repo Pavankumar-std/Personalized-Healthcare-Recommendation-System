@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personalized Healthcare Recommendation System
 
 ## Project Overview
@@ -34,3 +35,6 @@ This project uses Machine Learning to predict a possible disease based on user-s
 
 ## Important Disclaimer
 This project is developed for educational and internship purposes only. Its predictions are not medical diagnoses or treatment recommendations. Always consult a qualified healthcare professional.
+=======
+# Personalized-Healthcare-Recommendation-System
+>>>>>>> ec4a262a8ac6983c30f846314cbe5a371d3b905b
